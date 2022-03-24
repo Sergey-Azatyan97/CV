@@ -107,6 +107,14 @@ a:active {
     background: #ffe5e5;
 }
 
+.bg-blue {
+    background: #c4faff;
+}
+
+.bg-purple {
+    background: #fdc4ff;
+}
+
 .card {
     padding: 15px 20px;
     
@@ -165,14 +173,14 @@ a:active {
     color: #86898f;
 }
 
-.contact h2 {
+/* .contact h2 {
     text-align: center;
-}
+} */
 
-.form-group label {
+/* .form-group label {
     display: block;
     font-size: 14px;
-    /* color: #86898f; */
+    
 }
 
 .form-group input,
@@ -222,7 +230,7 @@ a:active {
 
 .btn:hover {
     opacity: 0.9;
-}
+} */
 
 /*! Position */
 
